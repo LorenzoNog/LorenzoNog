@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Backend development and Typescript**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/lorenzo-noguera-mart%C3%ADnez-01540a26a/
 <p align="left">
 </p>
 
