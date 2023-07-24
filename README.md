@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorenzo, but you can call me Bachi!</h1>
-<h3 align="center">I am currently studying Full Stack Development in Coderhouse, Argentina.</h3>
+<h3 align="center">I am Full Stack Developer living in Argentina.</h3>
 
 - 🔭I love working with **frontend technologies**
 
-- 🌱 I’m currently learning **Backend development and Typescript**
+- 🌱 I’m currently learning **Typescript and UX/UI design**
 
 <h3 align="left">Connect with me:</h3>
 www.linkedin.com/in/lorenzonoguera
